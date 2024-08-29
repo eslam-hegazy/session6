@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050329770640",
+    "project_id": "session8-1563e",
+    "storage_bucket": "session8-1563e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050329770640:android:57e483fd66cd8498ca8615",
+        "android_client_info": {
+          "package_name": "com.example.session6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIsLfiwjkDbbKqJAaRZxS8ywticxFHcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
